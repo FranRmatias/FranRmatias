@@ -1,13 +1,12 @@
 <h1 align="center">Hola 👋, mi nombre es Franco Ramos</h1>
-<h3 align="center">Soy un fronted apasionado</h3>
-
-- 🔭 Dedico 6 horas diarias a [Impresiones 3D](https://www.instagram.com/focus_makrs/)
+<h3 align="center">Me intereza bastante el mundo bakcend</h3>
 
 - 🌱 Aprendizaje **HTML CCS JAVA**
 
-- 👯 Dedico 4 horas diarias a [Programacion Web](https://cursos.sociedadesdigitales.org/login/index.php)
+- 👯 Dedico 1.5 horas diarias a [Programacion Web](https://cursos.sociedadesdigitales.org/login/index.php)
 
-- 🤝 Dedico 2 horas diarias a **Mi salud Fisica**
+- 🤝 Dedico 1 horas diarias a **Mi salud Fisica**
+
 
 - 👨‍💻 O un numero de telefono [+543885775735](+543885775735)
 
